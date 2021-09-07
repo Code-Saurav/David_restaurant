@@ -372,4 +372,49 @@ h3.menu-item-title {
 }
 
 
+.about {
+  text-align: center;
+}
+.award_title{
+  text-align: center;
+}
+
+.about h2{
+  font-size: 5rem;
+  text-decoration:solid;
+}
+
+.about p{
+  line-height: 30px;
+  font-size: 2rem;
+}
+
+.about img{
+  height:500px;
+  width:500px;
+  border-radius: 20%;
+  padding:20px
+}
+
+.award-tile{
+  display:inline-flex;
+  justify-content: flex-start;
+  border:2px #f6b319 solid;
+  border-radius:100%;
+  height:250px;
+  width:250px;
+  margin: 10px;
+  align-items:center;
+  padding-left:88px;
+  color:#f6b319;
+  font-size:2rem;
+}
+
+.award h2{
+  text-align: center;
+  font-size: 5rem;
+  text-decoration: solid;
+}
+
+
 
